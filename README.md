@@ -3,17 +3,14 @@ Hey there! 👋 Welcome to my coding playground! I'm a software engineer on a mi
 
 ## About Me
 🚀 Full-time Debugger
-🌟 Part-time Innovator
 🎮 Always up for a coding challenge
 📚 Learning new languages one line at a time
 ## Languages & Tools
-⌨️ Java, Python, JavaScript - my trilingual skills
-🔧 Git, Docker, Kubernetes - my tech toolbelt
+⌨️ Javascript, C# - my trilingual skills
+🔧 NestJs, NextJs, React Native, Dotnet  - my tech toolbelt
 🧙‍♂️ Magic wand - for those tricky bugs
 ## Current Projects
-🔍 Exploring AI algorithms to conquer the world
-🚀 Launching a rocket-powered app for intergalactic communication
-🌌 Building a time machine (because version control isn't enough)
+🚀 Researching app that can boost the productivity.
 ## Fun Facts
 🎸 Rockstar coder by day, guitar hero by night
 🍕 Pizza-powered for coding marathons
