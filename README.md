@@ -1,4 +1,4 @@
-# Awesome Software Engineer Readme
+# Awesome Readme
 Hey there! 👋 Welcome to my coding playground! I'm a software engineer on a mission to turn coffee into code. If you're here, you're probably lost in the maze of repositories, but don't worry, I've got you covered. Here's a sneak peek into my digital realm:
 
 ## About Me
